@@ -42,7 +42,7 @@ The session works on its own sandbox and its own branch. Its work reaches the de
 | On the box | Off the box |
 | --- | --- |
 | The frontend, the API, the LLM gateway, and the bundled Supabase distribution. | Agent sessions, on a separate sandbox provider. |
-| Accounts, projects, repos, secrets, connectors, policy, and audit. | The default provider is Daytona; Platinum and E2B are supported. |
+| Accounts, projects, repos, secrets, connectors, policy, and audit. | Platinum is the default provider; Daytona remains available as a legacy fallback. |
 | One Docker Compose stack. | The box stays reachable so a sandbox can call the API. |
 
 The boundary matters for capacity planning and for a security review. A self-hosted instance has no managed model lineup, so every model call routes through the LLM gateway on your own box. For a topology where the sandbox compute also runs inside your network, Kortix scopes that isolated setup with you directly.
