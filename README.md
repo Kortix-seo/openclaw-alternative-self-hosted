@@ -1,6 +1,6 @@
-# OpenClaw alternative, self-hosted: Kortix, the open-source AI Operating System
+# OpenClaw alternative, self-hosted: Kortix, the open-source CompanyOS
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is the self-hosted route to it for teams that run OpenClaw and now need company-scale agent work: your agents, their skills, your company memory, and every connector in one git repo you own, each session on its own isolated machine, and every change read and approved by a person before it lands.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is the self-hosted route to it for teams that run OpenClaw and now need company-scale agent work: your agents, their skills, your company memory, and every connector in one git repo you own, each session on its own isolated machine, and every change read and approved by a person before it lands.
 
 If you are still choosing, start at [openclaw-alternative.com](https://openclaw-alternative.com/), the companion site that maps this ground page by page.
 
