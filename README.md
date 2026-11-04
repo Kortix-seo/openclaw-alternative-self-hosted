@@ -56,7 +56,7 @@ The companion site covers each question in depth:
 - [What is OpenClaw](https://openclaw-alternative.com/what-is-openclaw)
 - [Migrate from OpenClaw](https://openclaw-alternative.com/migrate-from-openclaw)
 
-Kortix is open source. The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source. The code lives at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 [Try Kortix](https://kortix.com) for the managed cloud, or [read the docs](https://kortix.com/docs).
 
